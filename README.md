@@ -30,6 +30,7 @@ Take a screenshot of the site and uploat it.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```html
 ##math.html
 math.html
 <html>
@@ -126,8 +127,11 @@ urlpatterns = [
     path('areaofrectangle/',views.rectarea,name="areaofrectangle"),
     path('',views.rectarea,name="areaofrectangleroot")
 ]
+
+```
 ## OUTPUT:
-![image](https://github.com/Nethraa24/serversideprocessing/assets/121215786/591e4210-35e7-44a2-8323-260f774a2b32)
+![image](https://github.com/Nethraa24/serversideprocessing/assets/121215786/b83a663b-8349-4679-a3ef-808001aa035c)
+
 
 ### Home Page:
 ![image](https://github.com/Nethraa24/serversideprocessing/assets/121215786/7e07e74c-518a-473a-b586-dd18749d29e8)
